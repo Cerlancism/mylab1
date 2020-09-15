@@ -1,6 +1,3 @@
 # mylab1
 CSC2005-Lab1
 
-Classroom lab activity.
-# CSC2005 LAB 1
-Lab activity 1 for CSC2005
